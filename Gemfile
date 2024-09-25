@@ -72,3 +72,8 @@ group :test do
 end
 
 gem 'pry-rails'
+
+gem 'sassc-rails'
+gem 'tilt'
+gem 'reline'
+gem 'ffi'
