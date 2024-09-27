@@ -70,10 +70,3 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
-
-gem 'pry-rails'
-
-gem 'sassc-rails'
-gem 'tilt'
-gem 'reline'
-gem 'ffi'
